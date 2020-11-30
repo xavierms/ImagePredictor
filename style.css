@@ -1,0 +1,33 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background:black;
+    color:white;
+  }
+  canvas {
+    display: block;
+    border-radius:50%;
+    border-style: solid;
+    border-color: red;
+  
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+  }
+  p{
+    text-align:center;
+    font-size: 30px;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+  }
+  
